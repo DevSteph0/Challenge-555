@@ -95,5 +95,5 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Dev notes
+I'm still learning javascript so i appreciate your patience feel free to message me! with any type of advice of self improvement it would be greatly appreciated. 
